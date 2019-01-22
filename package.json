@@ -1,0 +1,22 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "csvjson": "^5.1.0",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "fast-csv": "^2.4.1",
+    "mongoose": "^5.4.5",
+    "nodemon": "^1.18.9"
+  }
+}
